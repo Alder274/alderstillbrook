@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360" role="img" aria-label="Author photo placeholder">
+  <rect width="360" height="360" rx="180" fill="#111315"/>
+  <circle cx="180" cy="132" r="54" fill="#E8A656" opacity=".85"/>
+  <path d="M80 312c18-70 62-108 100-108s82 38 100 108" fill="#9D5E28" opacity=".9"/>
+  <circle cx="180" cy="180" r="170" fill="none" stroke="#E8A656" stroke-opacity=".35" stroke-width="6"/>
+</svg>
